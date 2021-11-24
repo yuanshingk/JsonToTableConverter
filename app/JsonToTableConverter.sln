@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonToTable", "JsonToTable\JsonToTable.csproj", "{68F55B8D-957C-4805-B2B8-2FC30B6CE509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F55B8D-957C-4805-B2B8-2FC30B6CE509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F55B8D-957C-4805-B2B8-2FC30B6CE509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F55B8D-957C-4805-B2B8-2FC30B6CE509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F55B8D-957C-4805-B2B8-2FC30B6CE509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6C59113-7374-4A44-9F7E-EE131DB225A6}
+	EndGlobalSection
+EndGlobal

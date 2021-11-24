@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonToTable": {
+      "commandName": "Project",
+      "commandLineArgs": "Sample.json result\\sortbyid.md"
+    }
+  }
+}
