@@ -16,9 +16,6 @@ To generate markdown as output, use `.md` extension. Example: ([output.md](./res
 $ ./JsonToTable.exe Sample.json ./result/output.md
 ```
 
-
-### Comma-Separated Value
-
 To generate comma-separated value, use `.csv` extension. Example: ([output.csv](./result/output.csv))
 ```
 $ ./JsonToTable.exe Sample.json ./result/output.csv
