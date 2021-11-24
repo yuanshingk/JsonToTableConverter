@@ -49,9 +49,7 @@ namespace JsonToTable.Converters
                 sb.AppendLine($"{DELIMITER}{String.Join(DELIMITER, row)}{DELIMITER}");
             }
 
-            var fileInfo = new FileInfo(outputFilePath);
-            fileInfo.Directory.Create();
-            File.WriteAllText(fileInfo.FullName, sb.ToString());
+            File.WriteAllText(outputFilePath, sb.ToString());
         }
     }
 }

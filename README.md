@@ -1,6 +1,6 @@
 # JsonToTableConverter
 
-A simple console application built to convert JSON file of item structure ([example](./app/Sample.json)) into different table format.
+A simple console application built to convert JSON file of item structure ([example](./app/JsonToTable/Sample.json)) into different table format.
 
 At the moment, the following output formats are supported
 1. Markdown `.md`
