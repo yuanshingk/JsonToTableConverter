@@ -13,11 +13,11 @@ At the moment, the following output formats are supported
 
 To generate markdown as output, use `.md` extension. Example: ([output.md](./result/output.md))
 ```
-$ ./JsonToTable.exe Sample.json ./result/output.md
+./JsonToTable.exe Sample.json ./result/output.md
 ```
 
 To generate comma-separated value, use `.csv` extension. Example: ([output.csv](./result/output.csv))
 ```
-$ ./JsonToTable.exe Sample.json ./result/output.csv
+./JsonToTable.exe Sample.json ./result/output.csv
 ```
 
